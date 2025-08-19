@@ -9,17 +9,17 @@ const CierreAnoSection = () => {
   const galleryImages = [
     {
       id: 1,
-      src: "/lovable-uploads/2bf483a3-d5a5-47c7-9134-6a6ddac55ad0.png",
+      src: "https://www.humanitaong.com.ar/img/galeria/hd/1.jpg",
       alt: "Ceremonia de graduación 2024"
     },
     {
       id: 2,
-      src: "/lovable-uploads/2bf483a3-d5a5-47c7-9134-6a6ddac55ad0.png",
+      src: "https://www.humanitaong.com.ar/img/galeria/hd/3.jpg",
       alt: "Encuentro de mediadores"
     },
     {
       id: 3,
-      src: "/lovable-uploads/2bf483a3-d5a5-47c7-9134-6a6ddac55ad0.png",
+      src: "https://www.humanitaong.com.ar/img/galeria/hd/4.jpg",
       alt: "Capacitación especializada"
     }
   ];
